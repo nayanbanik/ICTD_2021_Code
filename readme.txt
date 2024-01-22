@@ -4,7 +4,7 @@
 
 3. Change the directory to current folder. Type: cd '/to/current/directory/'
 
-4. Create a new virtual environment with required packages and dependencies. Type: conda env create --file environment.yaml
+4. Create a new virtual environment with required packages and dependencies. Type: conda env create --file environment.yml
 
 5. Activate the newly created virtual environment. Type: activate ictd
 
