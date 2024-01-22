@@ -1,3 +1,5 @@
+* Run Locally *
+
 1. Download and install Miniconda (Version 4.10.3 Python 3.8) from the link: https://docs.conda.io/en/latest/miniconda.html
 
 2. Open Anaconda Prompt (miniconda3) from Start Menu.
@@ -17,5 +19,7 @@
 9. Keep the window running and open a browser. Visit: http://127.0.0.1:5000/
 
 10. The site will run. Input a news body on the box and click Generate Headline button.
+
+
 
 
