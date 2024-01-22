@@ -1,6 +1,6 @@
 # Run Locally 
 
-1. Download and install Miniconda (Version 4.10.3 Python 3.8) from the link: https://docs.conda.io/en/latest/miniconda.html
+1. Download and install Miniconda from the link: https://docs.conda.io/en/latest/miniconda.html
 2. Open Anaconda Prompt (miniconda3) from Start Menu
 3. Change the directory to current folder. Type: `cd /to/current/directory/`
 4. Create a new virtual environment with required packages and dependencies. Type: `conda env create --file environment.yml`
