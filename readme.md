@@ -14,7 +14,7 @@
 # Run Codespaces
 
 1. Go to https://github.com/codespaces and create codespaces with this repository.
-2. In the terminal type `pip install flask torchtext==0.6.0
+2. In the terminal type `pip install flask torchtext==0.6.0`
 3. Upload the downloaded 'model.pt' file in the ./static/assets' folder
 4. Set the flask server in development mode. Type: `set FLASK_ENV=development`
 5. Start the flask server. Type: `flask run`
