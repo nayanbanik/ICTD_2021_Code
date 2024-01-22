@@ -8,16 +8,14 @@
 
 5. Activate the newly created virtual environment. Type: activate ictd
 
-6. Change the directory to project folder. Type: cd './flml/'
+6. Download the 'model.pt' file from here: https://drive.google.com/file/d/1-MM02HiM7E68_RAo1rPw1INXSxbve37x/view?usp=sharing and put it in ./static/assets' folder
 
-7. Download the 'model.pt' file from here: https://drive.google.com/file/d/1-MM02HiM7E68_RAo1rPw1INXSxbve37x/view?usp=sharing and put it in ./flml/static/assets' folder
+7. Set the flask server in development mode. Type: set FLASK_ENV=development
 
-8. Set the flask server in development mode. Type: set FLASK_ENV=development
+8. Start the flask server. Type: flask run
 
-9. Start the flask server. Type: flask run
+9. Keep the window running and open a browser. Visit: http://127.0.0.1:5000/
 
-10. Keep the window running and open a browser. Visit: http://127.0.0.1:5000/
-
-11. The site will run. Input a news body on the box and click Generate Headline button.
+10. The site will run. Input a news body on the box and click Generate Headline button.
 
 
