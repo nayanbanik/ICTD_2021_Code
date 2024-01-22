@@ -10,13 +10,14 @@
 
 6. Change the directory to project folder. Type: cd './flml/'
 
-7. Set the flask server in development mode. Type: set FLASK_ENV=development
+7. Download the 'model.pt' file from here: https://drive.google.com/file/d/1-MM02HiM7E68_RAo1rPw1INXSxbve37x/view?usp=sharing and put it in ./flml/static/assets' folder
 
-8. Start the flask server. Type: flask run
+8. Set the flask server in development mode. Type: set FLASK_ENV=development
 
-9. Keep the window running and open a browser. Visit: http://127.0.0.1:5000/
+9. Start the flask server. Type: flask run
 
-10. The site will run. Input a news body on the box and click Generate Headline button.
+10. Keep the window running and open a browser. Visit: http://127.0.0.1:5000/
+
+11. The site will run. Input a news body on the box and click Generate Headline button.
 
 
-*** Download the 'tut2-model.pt' file from here: https://drive.google.com/file/d/1-MM02HiM7E68_RAo1rPw1INXSxbve37x/view?usp=sharing and rename it to 'model.pt' and put it in ./flml/static/assets' folder
