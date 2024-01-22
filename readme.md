@@ -21,4 +21,10 @@
 6. From the terminal end, click http://127.0.0.1:5000/ and it will launch the app in new window
 7. Input a news body on the box and click Generate Headline button
 
+# Sample Snapshots
 
+![sample-1](./snapshots/sample-1.png)
+![sample-2](./snapshots/sample-2.png)
+![sample-3](./snapshots/sample-3.png)
+![sample-4](./snapshots/sample-4.png)
+![sample-5](./snapshots/sample-5.png)
